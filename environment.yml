@@ -1,0 +1,11 @@
+name: nb
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python==3.9
+  - ipython
+  - jupyter
+  - textblob
+  - rise
+  
