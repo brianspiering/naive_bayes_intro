@@ -1,2 +1,4 @@
-# naive_bayes_intro
+Naive Bayes Intro
+======
+
 Introduction to naive Bayes machine learning classifer
