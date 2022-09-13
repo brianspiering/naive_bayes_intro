@@ -9,4 +9,4 @@ Naive Bayes is a fundamental machine learning algorithm. Despite its simplicity,
 About Me
 ------
 
-Brian Spiering is Data Science Intructor at Metis. He teaches humans the languages of computers (primarily Python) and teaches computers the languages of humans (through Natural Language Processing and Artificial Intelligence). He is active in global tech community through volunteering and mentoring.
+Brian Spiering is Data Science Instructor at Metis. He teaches humans the languages of computers (primarily Python) and teaches computers the languages of humans (through Natural Language Processing and Artificial Intelligence). He is active in global tech community through volunteering and mentoring.
